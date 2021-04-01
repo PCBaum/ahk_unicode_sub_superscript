@@ -33,7 +33,7 @@ Unicode only has Numbers {0,1,...,9,0}, Operators {+,-,=,),(} and the letters {a
   
 # Whithout installing AHK on Windows
 
-  1. Download the compiled [Sub_Super.exe](https://github.com/PCBaum/ahk_unicode_sub_superscript/blob/main/Sub_Super.exe) File
+  1. Download the compiled [Sub_Super.exe](https://github.com/PCBaum/ahk_unicode_sub_superscript/raw/main/Sub_Super.exe) File
   2. Put the script into a folder of your choice.
   3. Start the script Sub_Super.exe
   
