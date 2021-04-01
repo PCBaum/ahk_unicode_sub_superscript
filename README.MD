@@ -1,5 +1,4 @@
-## Autohotkey for ℝℤℂℚ
-
+## Autohotkey for Sub_Superscript
 This AHK script lets you use all the Unicode sub and superscripts I could find
 
 for Superscript use Backslash '\' circumflex '^' and your desired character. Afterwards you will also need to type a Space, since i couldn't get rid of the circumflex in any more elegant fashion. 
