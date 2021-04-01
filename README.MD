@@ -30,7 +30,7 @@ Unicode only has Numbers {0,1,...,9,0}, Operators {+,-,=,),(} and the letters {a
   6. Put the executable ("YOUR_SCRIPT_NAME".exe) in your Startup Folder "C:\Users\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" to have the script automatically start on Startup.
   
   
-# Whithout installing AHK on Windows
+## Whithout installing AHK on Windows
 
   1. Download the compiled [Sub_Super.exe](https://github.com/PCBaum/ahk_unicode_sub_superscript/raw/main/Sub_Super.exe) File
   2. Put the script into a folder of your choice.
